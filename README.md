@@ -9,4 +9,6 @@ $ python RoboChat.py
 ```
 
 ## What I have learned
-*
+* Using regular expressions to generalize and simplify AI responding behavior
+* Using random number generator to create more diverse responses
+* Creating simple pre-programmed AI
